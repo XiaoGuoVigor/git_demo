@@ -22,3 +22,4 @@ hello xiaoguo! hello git!
 2222222222222222222222222
 4444444444444444444444444
 master test
+hot-fix test
